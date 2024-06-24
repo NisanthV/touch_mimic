@@ -34,7 +34,7 @@ last_click = 0
 last_dclick = 0
 click_delay = 0.2
 event=EventManagement()
-alpha = 0.2
+alpha = 0.5
 scr_x,scr_y = 0,0
 
 def calculate_distance(lm1, lm2):
