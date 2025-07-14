@@ -39,6 +39,3 @@ python track.py
 - This tool is intended for simple use cases and demos.
 - No advanced pipelines or multi-touch simulation—just head-movement-based mouse control!
 
-## License
-
-MIT License
