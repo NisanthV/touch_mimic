@@ -29,7 +29,7 @@ pip install opencv-python pyautogui
 2. Run the main script:
 
 ```bash
-python main.py
+python track.py
 ```
 
 3. Follow on-screen instructions to start controlling your mouse with your head.
